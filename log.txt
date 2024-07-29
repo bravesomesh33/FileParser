@@ -1,0 +1,7 @@
+2024-07-01, User1, post
+2024-07-01, User2, like
+2024-07-02, User1, comment
+2024-07-03, User1, like
+2024-07-03, User3, post
+2024-07-04, User2, comment
+2024-07-05, User3, like
